@@ -1,0 +1,19 @@
+gsettings set org.mate.interface gtk-color-scheme: ''
+gsettings set org.mate.interface gtk-theme 'Numix'
+gsettings set org.mate.interface icon-theme 'matefaenzagray'
+
+gsettings set org.mate.interface font-name 'Noto Sans 10'
+gsettings set org.mate.interface document-font-name 'Noto Sans 10'
+gsettings set org.mate.interface monospace-font-name 'Hack 10'
+
+gsettings set org.mate.Marco.general theme 'Numix'
+gsettings set org.mate.Marco.general compositing-manager true
+gsettings set org.mate.Marco.general titlebar-font 'Noto Sans Bold 10'
+
+gsettings set org.mate.caja.desktop font 'Noto Sans 10'
+gsettings set org.mate.caja.desktop computer-icon-visible false
+gsettings set org.mate.caja.desktop trash-icon-visible false
+
+gsettings set org.mate.background picture-filename '/usr/share/backgrounds/mate/desktop/Ubuntu-Mate-Warm-no-logo.png'
+gsettings set org.mate.background picture-options 'zoom'
+
